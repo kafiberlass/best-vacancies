@@ -1,0 +1,21 @@
+export const theme = {
+  colors: {
+    primary: '#2f80ed',
+    primaryDark: '#1f66c7',
+    primarySoft: '#e8f1fd',
+    success: '#27a35a',
+    successSoft: '#e5f6ec',
+    danger: '#e04545',
+    dangerSoft: '#fdecec',
+    text: '#1f2937',
+    muted: '#6b7280',
+    border: '#d9dee7',
+    surface: '#ffffff',
+    background: '#f4f6fa',
+    sidebar: '#ffffff',
+    accent: '#d9b8f5',
+  },
+  radius: '12px',
+  shadow: '0 4px 16px rgba(31, 41, 55, 0.08)',
+  mobile: '@media (max-width: 760px)',
+};
